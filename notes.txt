@@ -1,0 +1,11 @@
+en Yaml
+simple
+ht -> bas
+ex : pr tests, deploy to tests server
+puissant : app, packages, conf, reseau, lifecycle orchestration (duree de vie : .... prod, update, prod, etc, arret en test,etc), 
+workflow orchestration : 1 app sur +h servh : ademarrer DB, back, front(webservices) ; inverse pr arret
+
+Autre +++ : pas agent OpenSSH Linux, dc pas d install d agent...facile
+
+Quoi: management de conf : packages + fich de conf
+++++ : meme conf (si qq1 modif, redeploy)
