@@ -67,7 +67,21 @@ Ens de playbooks = projet
 ansible playbook fichier.yaml
 
 1h10 : Sumologic, Splunk
-1'11"15 Workflows : 3mn, admin lance, ou script de verif. Si ca se passe mal, fr qqch d autres
+1h11'15 Workflows : 3mn, admin lance, ou script de verif. Si ca se passe mal, fr qqch d autres
 
+1h14'05 superceder
+1h16"00 Github pr revenir AR
 
+/ Linux : playbook sur ~100n machines en // OK, 30 pr Windows (car il y a des traductions)
 
+1h19 started pr essayer Tower
+
+Role utilise des playbooks
+1er cours Ansible pur = 4 jours
+
+15 avril Openshift
+Formations dist jsq sept
+Libs de self study
+Learning rol.redhat.com
+Gratuit 1h27"50
+1h28"43 Youtube 
