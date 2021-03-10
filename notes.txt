@@ -51,5 +51,23 @@ passwd : peuvent etre hard codé , et cryptés
 
 
 
+Agnes cerantolas
+
+pwd par var d env pas vraiment par var d env ms par gr , class de machine par type d architecture
+Tower : control role based
+
+Ansible supervision ? Non : relancer Ansible
+
+Tower : RBAC ~ ACL
+
+Attendre que DB soit up ... workflow = conditions : presence fichier, ping, attendre 3mn (DB up en 2mn)
+
+Ens de playbooks = projet
+
+ansible playbook fichier.yaml
+
+1h10 : Sumologic, Splunk
+1'11"15 Workflows : 3mn, admin lance, ou script de verif. Si ca se passe mal, fr qqch d autres
+
 
 
