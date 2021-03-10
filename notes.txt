@@ -15,3 +15,16 @@ Secu (up+scripts cron)+ compliance
 / qoi : fire , load, container app reseaux (switch, routh)
 
 Tt part d Ansible Engine
+
+Peut fr audits
+
+Tech reseau : platforme centrale : Tower av group separes, Tower lit logs, organise Playbooks
+Tower permet log
+
+Peut fr grossissement : Paris d abord, puis GB, etc
+
+Au debut dev, puis secu, puis....
+Logs logiciel : Argsite
+
+Tower gere les access (gens secu ont access a ttes machines, ms qe cert1 playbooks,...)
+
