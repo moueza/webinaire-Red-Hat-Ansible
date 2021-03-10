@@ -9,3 +9,9 @@ Autre +++ : pas agent OpenSSH Linux, dc pas d install d agent...facile
 
 Quoi: management de conf : packages + fich de conf
 ++++ : meme conf (si qq1 modif, redeploy)
+
+Secu (up+scripts cron)+ compliance
+
+/ qoi : fire , load, container app reseaux (switch, routh)
+
+Tt part d Ansible Engine
