@@ -26,5 +26,30 @@ Peut fr grossissement : Paris d abord, puis GB, etc
 Au debut dev, puis secu, puis....
 Logs logiciel : Argsite
 
-Tower gere les access (gens secu ont access a ttes machines, ms qe cert1 playbooks,...)
+Tower gere les access (gens secu ont access a ttes machines, ms qe cert1 playbooks, nb lim d operations...)
+Play : series d instructions
+
+import de Yaml depuis l exth
+
+nbx modules
+
+No agents, multiOS
+
+Standardisation : test , prod
+Version control
+Statiq : PC ds ma piece
++Dyn inventories : Openstack, cloud
+Terraform
+
+Qui : users lancent playbook (modules , plugins, cloud)
+CMDB : DB de conf, pr inventaires
+
+.en //
+
+IDEs de syntaxe yaml : host 1 ou gr de machine
+passwd : peuvent etre hard codé , et cryptés
+
+
+
+
 
